@@ -1,0 +1,3 @@
+Simple Feedforward neural network mechanism
+
+Inspect the page to console the output...
